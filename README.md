@@ -1,2 +1,2 @@
-# Practice-GlobalState-React
+# Practic-AtomicDesign-React
 Created with CodeSandbox
